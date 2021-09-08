@@ -45,6 +45,11 @@ body{
     font-size: 20px;
     font-family: Cambria;
   }
+
+  h5{
+    font-size: 20px;
+    font-family: Cambria;
+  }
   h6 {
     font-family: Cambria;
     border:black; padding:2% 0 2% 0; 
@@ -76,6 +81,14 @@ body{
     margin-left: -50px; margin-right: -50px;
     margin-top: -10px;
     padding:8% 0 2% 0; 
+    border:black;
+    border-top:solid;
+  }
+
+  #personal{
+    margin-left: -50px; margin-right: -50px;
+    margin-top: -10px;
+    padding:5% 0 2% 0; 
     border:black;
     border-top:solid;
   }
